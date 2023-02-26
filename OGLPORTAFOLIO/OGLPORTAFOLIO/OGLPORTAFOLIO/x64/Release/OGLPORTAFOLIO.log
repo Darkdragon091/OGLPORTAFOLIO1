@@ -1,0 +1,16 @@
+﻿  glad.c
+  Source.cpp
+D:\Users\Daniel\Desktop\OGLPORTAFOLIO\OGLPORTAFOLIO\OGLPORTAFOLIO\Source.cpp(157,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+Source.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+Source.obj : error LNK2001: unresolved external symbol glfwGetKey
+Source.obj : error LNK2001: unresolved external symbol glfwTerminate
+Source.obj : error LNK2001: unresolved external symbol glfwPollEvents
+Source.obj : error LNK2001: unresolved external symbol glfwInit
+Source.obj : error LNK2001: unresolved external symbol glfwSetWindowShouldClose
+Source.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+Source.obj : error LNK2001: unresolved external symbol glfwWindowHint
+Source.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+Source.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+Source.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+D:\Users\Daniel\Desktop\OGLPORTAFOLIO\OGLPORTAFOLIO\x64\Release\OGLPORTAFOLIO.exe : fatal error LNK1120: 12 unresolved externals

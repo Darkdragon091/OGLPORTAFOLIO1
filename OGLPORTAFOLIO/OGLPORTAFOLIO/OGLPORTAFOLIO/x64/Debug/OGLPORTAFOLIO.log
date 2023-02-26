@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Users\Daniel\Desktop\OGLPORTAFOLIO\OGLPORTAFOLIO\OGLPORTAFOLIO\Source.cpp(157,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OGLPORTAFOLIO.vcxproj -> D:\Users\Daniel\Desktop\OGLPORTAFOLIO\OGLPORTAFOLIO\x64\Debug\OGLPORTAFOLIO.exe
